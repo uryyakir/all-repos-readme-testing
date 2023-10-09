@@ -2,13 +2,13 @@
 ### a repo designated to testing functionality of all-repos-readme
 <ol>
  <li>
-  Repo was created at: 2021-08-22 21:28:53
+  Repo was created at: 2021-08-22 21:28:53+00:00
  </li>
  <li>
-  Repo was last updated at: 2022-01-10 16:58:22
+  Repo was last updated at: 2022-01-10 16:58:22+00:00
  </li>
  <li>
-  Total commits: >= 650
+  Total commits: >= 651
  </li>
  <li>
   Used languages distribution:
@@ -29,5 +29,5 @@
  </li>
 </ol>
 
-#### Disclaimer: this is an auto-generated README.md file, committed by the [all_repos_readme](https://github.com/uryyakir/all-repos-readme) tool at 25/09/2023.
+#### Disclaimer: this is an auto-generated README.md file, committed by the [all_repos_readme](https://github.com/uryyakir/all-repos-readme) tool at 09/10/2023.
     To update repo stats, re-run the tool :)
